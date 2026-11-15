@@ -1,3 +1,29 @@
+# magentic-ui
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+MagenticLite is an experimental agent that works across the browser and local file system
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+跨浏览器与本地文件系统工作的实验性 Agent：MagenticLite。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/_assets/magentic-lite-logo-dark.png">
